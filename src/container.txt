@@ -1,0 +1,3 @@
+2024-09-01T15:05:36.055940200  num 1 = 12.0 num 2 = 15.0 type operation = sum result = 27.0
+2024-09-01T15:05:36.890474400  num 1 = 12.0 num 2 = 15.0 type operation = sum result = 27.0
+2024-09-01T15:05:37.688752100  num 1 = 12.0 num 2 = 15.0 type operation = sum result = 27.0
